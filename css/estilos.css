@@ -21,10 +21,15 @@
     text-align: center;
 }
 
-h1, h2
+.dv0
 {
     font: Arial;
-    font-size: 30px;
+    font-size: 25px;
     text-align: center;
     color: #FF218C;
+}
+
+.letter
+{
+    color: rgb(246, 156, 37);
 }
