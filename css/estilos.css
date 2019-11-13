@@ -33,3 +33,23 @@
 {
     color: rgb(246, 156, 37);
 }
+.dv2
+{
+    background:#00FFC7;
+    font-family: Arial, Helvetica, sans-serif;
+    color:#056139;
+    position: absolute;
+    z-index: 210;
+    left: 35%;
+    top:200px;
+    border:3px solid#0DFF96;
+    padding: 10px;
+    margin: 0 auto;
+    width: 30%;
+    height: 40px;
+    overflow: auto;
+    resize: both;
+    shape-rendering: geometricPrecision;
+    text-align: center;
+    float: right;
+}
