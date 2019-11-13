@@ -1,0 +1,30 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+.dv1
+{
+    background:#00FFC7;
+    font-family: Arial, Helvetica, sans-serif;
+    color:#056139;
+    z-index: 200;
+    border:3px solid#0DFF96;
+    padding: 10px;
+    margin: 0 auto;
+    width: 30%;
+    height: 40px;
+    overflow: auto;
+    resize: both;
+    shape-rendering: geometricPrecision;
+    text-align: center;
+}
+
+h1, h2
+{
+    font: Arial;
+    font-size: 30px;
+    text-align: center;
+    color: #FF218C;
+}
