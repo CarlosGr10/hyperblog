@@ -19,6 +19,7 @@
     resize: both;
     shape-rendering: geometricPrecision;
     text-align: center;
+    box-sizing: border-box;
 }
 
 .dv0
@@ -52,4 +53,13 @@
     shape-rendering: geometricPrecision;
     text-align: center;
     float: right;
+    box-sizing: border-box;
+}
+
+.dv3
+{
+    background-color: rgb(202, 255, 243);
+    text-anchor: end;
+    text-align: center;
+    box-sizing: border-box;
 }
