@@ -1,1 +1,2 @@
 Este archivo es un oinstructivo importante para nuestro proyecto
+Este es un cambio de el repositorio desde otra computadora
